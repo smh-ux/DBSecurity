@@ -1,0 +1,11 @@
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe.config
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\bin\Debug\DBSecurity.exe
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\bin\Debug\DBSecurity.pdb
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.AssemblyReference.cache
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.frmBruteForce.resources
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.Properties.Resources.resources
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.exe
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\obj\Debug\DBSecurity.pdb
+C:\Users\semih\Desktop\c# çalışmaları\DBSecurity\DBSecurity\DBSecurity\bin\Debug\uniqpass_preview.txt
